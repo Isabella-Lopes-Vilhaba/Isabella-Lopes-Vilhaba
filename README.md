@@ -1,5 +1,5 @@
-### Oii 👋
-##Eu sou a Isabella Vilhaba
+## Oii 👋
+### Eu sou a Isabella Vilhaba
 
 
 - 🔭 Estou em busca de um trabalho como Desenvolvedora Júnior ou estagiária
@@ -25,4 +25,7 @@
   <a href="https://instagram.com/umadev_tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabellavilhaba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabella-lopes-vilhaba-615b0a208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/Isabella-Lopes-Vilhaba/Isabella-Lopes-Vilhaba/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
