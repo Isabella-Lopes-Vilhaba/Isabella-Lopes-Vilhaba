@@ -2,8 +2,8 @@
 ### Eu sou a Isabella Vilhaba
 
 
-- 🔭 Estou em busca de um trabalho como Desenvolvedora Júnior ou estagiária
-- 🌱 Estudando desenvolvimento web, com ênfase em HTML, CSS, JavaScript e Vue.Js
+- 🔭 Estou em busca de um trabalho como Desenvolvedora Júnior ou Product Owner
+- 🌱 Estudando desenvolvimento web, com ênfase em Vue.Js, React e react Native. Além de gestão de projetos voltado para o setor de Product Owner.
 
 <div>
   <a href="https://github.com/Isabella-Lopes-Vilhaba">
