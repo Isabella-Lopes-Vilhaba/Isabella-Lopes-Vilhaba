@@ -5,7 +5,7 @@
 - 🔭 Estou em busca de um trabalho como Desenvolvedora Júnior ou Product Owner
 - 🌱 Estudando desenvolvimento web, com ênfase em Vue.Js, React e react Native. Além de gestão de projetos voltado para o setor de Product Owner.
 
-<div>
+<!-- <div>
   <a href="https://github.com/Isabella-Lopes-Vilhaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabella-Lopes-Vilhaba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Lopes-Vilhaba&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,7 +17,7 @@
   <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
   <img align="center" alt="Isa-Vue.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Isa-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/less/less-plain-wordmark.svg">
-</div>
+</div> -->
   
 ##
   
