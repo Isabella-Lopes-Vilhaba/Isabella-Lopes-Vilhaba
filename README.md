@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou em busca de novos desafios como Desenvolvedora ou Product Owner
-- 🌱 Sempre aprimorando meus conehcimentos, com ênfase em Vue.Js, React e react Native. Além de gestão de projetos voltado para o setor de Product Owner.
+- 🌱 Sempre aprimorando meus conehcimentos, com ênfase em Vue.Js, React, React Native e Node.Js, além de gestão de projetos voltado para o setor de Product Owner.
 
 <!-- <div>
   <a href="https://github.com/Isabella-Lopes-Vilhaba">
