@@ -3,7 +3,7 @@
 
 
 - 👩‍💻 Trabalho com desenvolvimento e atualmente estou me especializando como desenvolvedora Full Stack, desenvolvendo soluções de alta performance sempre pensando na experiência do usuário e otimização de processos.
-- 🌱 Aqui você irá encontrar alguns projetos pessoais e anotações de estudo, com ênfase em tecnologias em Vue.Js, Nuxt, React, React Native, Next, .Net e Node.Js.
+- 🌱 Aqui você irá encontrar alguns projetos pessoais e anotações de estudo, com ênfase em tecnologias como Vue.Js, Nuxt, React, React Native, Next, .Net e Node.Js.
 
 <div>
   <a href="https://github.com/Isabella-Lopes-Vilhaba">
